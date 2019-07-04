@@ -1,21 +1,21 @@
 {
   "configVersion": 1,
-  "timestamp": 1562281560878,
-  "index": "/index.html",
+  "timestamp": 1562282247423,
+  "index": "https://meddler.xyz/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.3e1beca6ca391915fbbb.js",
-        "/polyfills-es5.613d1909ec381c0aefb7.js",
-        "/polyfills.89aeeaa047f485f4a51c.js",
-        "/runtime.741402d1d47331ce975c.js",
-        "/scripts.029e0195c1172bd05895.js",
-        "/styles.dd6ba4a54d44a5faffde.css"
+        "https://meddler.xyz/favicon.ico",
+        "https://meddler.xyz/index.html",
+        "https://meddler.xyz/main.3e1beca6ca391915fbbb.js",
+        "https://meddler.xyz/polyfills-es5.613d1909ec381c0aefb7.js",
+        "https://meddler.xyz/polyfills.89aeeaa047f485f4a51c.js",
+        "https://meddler.xyz/runtime.741402d1d47331ce975c.js",
+        "https://meddler.xyz/scripts.029e0195c1172bd05895.js",
+        "https://meddler.xyz/styles.dd6ba4a54d44a5faffde.css"
       ],
       "patterns": []
     },
@@ -24,36 +24,36 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://meddler.xyz/assets/icons/icon-128x128.png",
+        "https://meddler.xyz/assets/icons/icon-144x144.png",
+        "https://meddler.xyz/assets/icons/icon-152x152.png",
+        "https://meddler.xyz/assets/icons/icon-192x192.png",
+        "https://meddler.xyz/assets/icons/icon-384x384.png",
+        "https://meddler.xyz/assets/icons/icon-512x512.png",
+        "https://meddler.xyz/assets/icons/icon-72x72.png",
+        "https://meddler.xyz/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "91bc49ebadf19d2d83bc322c5efcf2cda1a23b40",
-    "/assets/icons/icon-144x144.png": "a0c924f99491ce248e1f06df004187aa149c0f0d",
-    "/assets/icons/icon-152x152.png": "6b4949b3185f7d287f1497593cda6580a59b6b44",
-    "/assets/icons/icon-192x192.png": "6e2e36d3f4df01dea13b1d5efb040a5fa8fb4692",
-    "/assets/icons/icon-384x384.png": "fb6713791608ad3935380ee7d9040c8fb790ee96",
-    "/assets/icons/icon-512x512.png": "fb6713791608ad3935380ee7d9040c8fb790ee96",
-    "/assets/icons/icon-72x72.png": "c7e5eb03e9b0f674fc125f9d680684384ffaa949",
-    "/assets/icons/icon-96x96.png": "b147e13627f79c10da743dc146ad4a845aac9dc8",
-    "/favicon.ico": "5cc43077dd28be358ac61145445a6b45e4526ddb",
-    "/index.html": "1293980b58d9db70660f2097f12bb59ebdf660de",
-    "/main.3e1beca6ca391915fbbb.js": "1e3c481d39cdb9ff9ce6817b26a57f0592695058",
-    "/polyfills-es5.613d1909ec381c0aefb7.js": "e3aac0d6ebd3f9f1286da2a0bbb8631c4642986c",
-    "/polyfills.89aeeaa047f485f4a51c.js": "623c67fa1833bdebb0199bdd89e26f95f73e50aa",
-    "/runtime.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/scripts.029e0195c1172bd05895.js": "2096e6172a80dda00314537c18cba734ed9f4565",
-    "/styles.dd6ba4a54d44a5faffde.css": "17e7f7f8250634a87ff4153e43cbfd5775420154"
+    "https://meddler.xyz/assets/icons/icon-128x128.png": "91bc49ebadf19d2d83bc322c5efcf2cda1a23b40",
+    "https://meddler.xyz/assets/icons/icon-144x144.png": "a0c924f99491ce248e1f06df004187aa149c0f0d",
+    "https://meddler.xyz/assets/icons/icon-152x152.png": "6b4949b3185f7d287f1497593cda6580a59b6b44",
+    "https://meddler.xyz/assets/icons/icon-192x192.png": "6e2e36d3f4df01dea13b1d5efb040a5fa8fb4692",
+    "https://meddler.xyz/assets/icons/icon-384x384.png": "fb6713791608ad3935380ee7d9040c8fb790ee96",
+    "https://meddler.xyz/assets/icons/icon-512x512.png": "fb6713791608ad3935380ee7d9040c8fb790ee96",
+    "https://meddler.xyz/assets/icons/icon-72x72.png": "c7e5eb03e9b0f674fc125f9d680684384ffaa949",
+    "https://meddler.xyz/assets/icons/icon-96x96.png": "b147e13627f79c10da743dc146ad4a845aac9dc8",
+    "https://meddler.xyz/favicon.ico": "5cc43077dd28be358ac61145445a6b45e4526ddb",
+    "https://meddler.xyz/index.html": "b5c9de00a0c80f1c0da9fc28b2c3ab845c60dd51",
+    "https://meddler.xyz/main.3e1beca6ca391915fbbb.js": "1e3c481d39cdb9ff9ce6817b26a57f0592695058",
+    "https://meddler.xyz/polyfills-es5.613d1909ec381c0aefb7.js": "e3aac0d6ebd3f9f1286da2a0bbb8631c4642986c",
+    "https://meddler.xyz/polyfills.89aeeaa047f485f4a51c.js": "623c67fa1833bdebb0199bdd89e26f95f73e50aa",
+    "https://meddler.xyz/runtime.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://meddler.xyz/scripts.029e0195c1172bd05895.js": "2096e6172a80dda00314537c18cba734ed9f4565",
+    "https://meddler.xyz/styles.dd6ba4a54d44a5faffde.css": "17e7f7f8250634a87ff4153e43cbfd5775420154"
   },
   "navigationUrls": [
     {
