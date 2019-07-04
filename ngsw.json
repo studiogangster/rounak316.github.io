@@ -1,5 +1,6 @@
 {
   "configVersion": 1,
+  "timestamp": 1562281560878,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -9,11 +10,12 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.150e3896a697b72676a5.js",
-        "/polyfills.0c500ea5b0ac3e284907.js",
-        "/runtime.a66f828dca56eeb90e02.js",
-        "/scripts.dfb559fab5f41e36e970.js",
-        "/styles.38ba9e01a7ca911ca66a.css"
+        "/main.3e1beca6ca391915fbbb.js",
+        "/polyfills-es5.613d1909ec381c0aefb7.js",
+        "/polyfills.89aeeaa047f485f4a51c.js",
+        "/runtime.741402d1d47331ce975c.js",
+        "/scripts.029e0195c1172bd05895.js",
+        "/styles.dd6ba4a54d44a5faffde.css"
       ],
       "patterns": []
     },
@@ -45,12 +47,13 @@
     "/assets/icons/icon-72x72.png": "c7e5eb03e9b0f674fc125f9d680684384ffaa949",
     "/assets/icons/icon-96x96.png": "b147e13627f79c10da743dc146ad4a845aac9dc8",
     "/favicon.ico": "5cc43077dd28be358ac61145445a6b45e4526ddb",
-    "/index.html": "6e5f1e8f115d15f1ced0bc12213f0451a7606662",
-    "/main.150e3896a697b72676a5.js": "4e55175be56b22c77c266b2b480b82c56ef8adf2",
-    "/polyfills.0c500ea5b0ac3e284907.js": "429a5122311af6d24c0a05f80d9582d23b51daf8",
-    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/scripts.dfb559fab5f41e36e970.js": "a7a036f21b7df1a54d2e96655fe08be04edfe1dc",
-    "/styles.38ba9e01a7ca911ca66a.css": "346ce110abc2a4ec43e6877b26faa358d3f9e1c2"
+    "/index.html": "1293980b58d9db70660f2097f12bb59ebdf660de",
+    "/main.3e1beca6ca391915fbbb.js": "1e3c481d39cdb9ff9ce6817b26a57f0592695058",
+    "/polyfills-es5.613d1909ec381c0aefb7.js": "e3aac0d6ebd3f9f1286da2a0bbb8631c4642986c",
+    "/polyfills.89aeeaa047f485f4a51c.js": "623c67fa1833bdebb0199bdd89e26f95f73e50aa",
+    "/runtime.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/scripts.029e0195c1172bd05895.js": "2096e6172a80dda00314537c18cba734ed9f4565",
+    "/styles.dd6ba4a54d44a5faffde.css": "17e7f7f8250634a87ff4153e43cbfd5775420154"
   },
   "navigationUrls": [
     {
@@ -59,15 +62,15 @@
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
     }
   ]
 }
